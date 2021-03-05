@@ -1,3 +1,5 @@
 GIt練習
 aa
 git rm
+
+git diff
