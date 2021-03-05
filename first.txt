@@ -1,2 +1,3 @@
 GIt練習
 aa
+git rm
